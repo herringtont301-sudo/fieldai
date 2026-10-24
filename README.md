@@ -1,2 +1,3 @@
 # fieldai
 FieldAI is an AI-powered property inspection platform for insurance companies and inspection firms. It aims to analyze storm-damage photos, recommend repair materials, guide inspections, organize evidence, and generate reports with secure data retention and human oversight.
+A near finshed future function of live photos along with 8k or better live video with the ability of the desk adjuster joining the live feed from the link sent the moment the inspection begins with the inspection being recorded for quality assurance.
